@@ -1,0 +1,11 @@
+C:\Users\ERKAN SAK\source\repos\Number Game !\Number Game !\bin\Debug\Number Game !.exe.config
+C:\Users\ERKAN SAK\source\repos\Number Game !\Number Game !\bin\Debug\Number Game !.exe
+C:\Users\ERKAN SAK\source\repos\Number Game !\Number Game !\bin\Debug\Number Game !.pdb
+C:\Users\ERKAN SAK\source\repos\Number Game !\Number Game !\obj\Debug\Number Game !.csproj.AssemblyReference.cache
+C:\Users\ERKAN SAK\source\repos\Number Game !\Number Game !\obj\Debug\Number_Game__.Form1.resources
+C:\Users\ERKAN SAK\source\repos\Number Game !\Number Game !\obj\Debug\Number_Game__.game.resources
+C:\Users\ERKAN SAK\source\repos\Number Game !\Number Game !\obj\Debug\Number_Game__.Properties.Resources.resources
+C:\Users\ERKAN SAK\source\repos\Number Game !\Number Game !\obj\Debug\Number Game !.csproj.GenerateResource.cache
+C:\Users\ERKAN SAK\source\repos\Number Game !\Number Game !\obj\Debug\Number Game !.csproj.CoreCompileInputs.cache
+C:\Users\ERKAN SAK\source\repos\Number Game !\Number Game !\obj\Debug\Number Game !.exe
+C:\Users\ERKAN SAK\source\repos\Number Game !\Number Game !\obj\Debug\Number Game !.pdb
